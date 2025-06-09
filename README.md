@@ -13,7 +13,7 @@ A modern, interactive implementation of the classic Tic Tac Toe game using HTML,
 
 ## How to Play
 
-1. Open `index.html` in your web browser
+1. Open https://venkat1845.github.io/Tic-Tac-Toe-Game/
 2. The game starts with Player X
 3. Click on any empty cell to place your mark (X or O)
 4. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins
